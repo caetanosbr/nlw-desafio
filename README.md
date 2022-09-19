@@ -1,4 +1,4 @@
-![eSports](/assets/eSports.png)
+![eSports](/assets/eSports-desafio.png)
 
 # <nlw/> eSports ✔
 
