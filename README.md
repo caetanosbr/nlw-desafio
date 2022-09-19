@@ -26,7 +26,4 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 caetanosbr@gmail.com
 
-
-
->>>>>>> fc01e071108415ed344ab66f6685b80cd917884b
-Você pode conferir o projeto rodando [Clique aqui](https://caetanosbr.github.io/nlw-eSports/).
+Você pode conferir o projeto rodando [Clique aqui](https://caetanosbr.github.io/nlw-desafio/).
