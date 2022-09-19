@@ -1,11 +1,11 @@
-![eSports](/assets/eSports-desafio.png)
+![eSports](./assets/nlw_desafio.png)
 
-# <nlw/> eSports ✔
+# <nlw/> Desafio nlw ✔
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
 
-## Nosso projeto: o Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.
+## Nosso projeto: o Game hub, um site centralizador de links, no estilo Linktree, feito especialmente pra filmes e séries.
 
 - [x] Preparar o nosso ambiente e construir as bases.
 - [x] Desenvolvimento do projeto no HTML.
