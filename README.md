@@ -1,6 +1,6 @@
 ![eSports](/assets/eSports.png)
 
-# <nlw/> eSports ✔
+# <nlw/> Desafio  ✔
 
 Projeto construido do evento Next Level Week da Rocketseat.
 
