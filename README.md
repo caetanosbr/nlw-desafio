@@ -18,10 +18,6 @@ Projeto construido do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-<<<<<<< HEAD
-## Deploy
-
-=======
 ## Contato
 
 caetanosbr@gmail.com
